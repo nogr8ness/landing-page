@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     height: 100vh;
     margin: 0;
+    font-family: Roboto;
 }
 
 /* Top navbar */
@@ -57,7 +58,7 @@ a {
 
 .hero-main-txt {
     font-size: 48px;
-    font-weight: 700;
+    font-weight: 1000;
     color: #f9faf8;
 }
 
